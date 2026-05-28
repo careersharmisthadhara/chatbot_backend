@@ -1,0 +1,17 @@
+{
+  "reference": "CFS-2026-00006",
+  "subject": "Chatbot escalation: what is csat",
+  "description": "Original chatbot query:\nwhat is csat",
+  "serviceArea": "ENCRYPTION",
+  "geography": null,
+  "countryRegion": "EMEA",
+  "requesterName": "sharmistahj",
+  "requesterEmail": "shar@yopmail.com",
+  "priority": "CRITICAL",
+  "status": "NEW",
+  "escalatedFromSession": "2fa58130-b2ab-4336-b363-e487d9ca3fe9",
+  "prefilledQuery": "what is csat",
+  "createdAt": "2026-05-27T09:05:01.707Z",
+  "updatedAt": "2026-05-27T09:05:01.707Z",
+  "resolvedAt": null
+}

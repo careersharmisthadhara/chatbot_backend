@@ -1,0 +1,23 @@
+{
+  "name": "cfs-portal-backend",
+  "version": "1.0.0",
+  "description": "Lenovo CFS Intranet Portal — Backend API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon --ignore data/ app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "nodemailer": "^6.9.15",
+    "openai": "^6.39.0",
+    "socket.io": "^4.8.0",
+    "uuid": "^10.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

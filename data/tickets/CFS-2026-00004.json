@@ -1,0 +1,17 @@
+{
+  "reference": "CFS-2026-00004",
+  "subject": "i want to know the RRR of the current ap team for this month",
+  "description": "I want to know the RRR of the current ap team for this month",
+  "serviceArea": "BIOS_VPRO",
+  "geography": null,
+  "countryRegion": null,
+  "requesterName": "Sharmistha Dhara",
+  "requesterEmail": "raj.panda11@yopmail.com",
+  "priority": "CRITICAL",
+  "status": "NEW",
+  "escalatedFromSession": null,
+  "prefilledQuery": null,
+  "createdAt": "2026-05-27T01:13:36.701Z",
+  "updatedAt": "2026-05-27T01:13:36.701Z",
+  "resolvedAt": null
+}

@@ -1,0 +1,17 @@
+{
+  "reference": "CFS-2026-00012",
+  "subject": "Chatbot escalation: what is RRR",
+  "description": "Original chatbot query:\nwhat is RRR",
+  "serviceArea": "ENCRYPTION",
+  "geography": null,
+  "countryRegion": "emea",
+  "requesterName": "mommy",
+  "requesterEmail": "mommy@yopmail.com",
+  "priority": "HIGH",
+  "status": "NEW",
+  "escalatedFromSession": "36d9904d-8bae-413a-ba8e-9f7e252a29c7",
+  "prefilledQuery": "what is RRR",
+  "createdAt": "2026-05-27T18:27:07.330Z",
+  "updatedAt": "2026-05-27T18:27:07.330Z",
+  "resolvedAt": null
+}

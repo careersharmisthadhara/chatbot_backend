@@ -1,0 +1,17 @@
+{
+  "reference": "CFS-2026-00010",
+  "subject": "Chatbot escalation: what is csr ?",
+  "description": "Original chatbot query:\nwhat is csr ?",
+  "serviceArea": "IMAGING",
+  "geography": null,
+  "countryRegion": "EMEA",
+  "requesterName": "mommy",
+  "requesterEmail": "mommy@yopmail.com",
+  "priority": "HIGH",
+  "status": "NEW",
+  "escalatedFromSession": "66b987f0-9d07-496b-9b92-0265ef29b5aa",
+  "prefilledQuery": "what is csr ?",
+  "createdAt": "2026-05-27T11:56:21.153Z",
+  "updatedAt": "2026-05-27T11:56:21.153Z",
+  "resolvedAt": null
+}

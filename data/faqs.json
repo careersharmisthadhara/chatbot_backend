@@ -1,0 +1,182 @@
+[
+  {
+    "id": "FAQ-001",
+    "category": "SERVICE_AVAILABILITY",
+    "question": "Which services are available in EMEA?",
+    "answer": "All 20 CFS services are available in EMEA. EMEA is served by CFS Netherlands (NL) as the primary site and CFS UK (UK) as the secondary site. This includes all Imaging, Provisioning, Asset Tag & DIB, Mobile, Encryption, BIOS/vPro, Etching/UV, and Managed Services categories."
+  },
+  {
+    "id": "FAQ-002",
+    "category": "SERVICE_AVAILABILITY",
+    "question": "Is CFS Imaging available in AP?",
+    "answer": "Yes. Two Imaging services are available in AP: CFS Ready to Process (CFS-10001) and CFS Image Recovery (CFS-10004). Both are provided through CFS Singapore (SG). CFS Image Management 1 Year (CFS-10003) is not available in AP — it is EMEA and Americas only."
+  },
+  {
+    "id": "FAQ-003",
+    "category": "SERVICE_AVAILABILITY",
+    "question": "Is CFS Drive Encryption available in Australia?",
+    "answer": "Yes. CFS Drive Encryption (CFS-50001) is available in AP, which includes Australia. Australia is served by CFS Singapore (SG). No SOW is required for the standard Drive Encryption service."
+  },
+  {
+    "id": "FAQ-004",
+    "category": "SERVICE_AVAILABILITY",
+    "question": "Which services require a Statement of Work (SOW)?",
+    "answer": "The following services require a signed SOW before work can begin: CFS Advanced Image ETO (CFS-10002), CFS Autopilot Pre-Provisioning (CFS-20003), CFS Mobile Application Loading (CFS-40001), CFS MDM Pre-Enrollment (CFS-40002), CFS Full Drive Encryption ETO (CFS-50002), CFS Intel vPro Provisioning (CFS-60002), CFS Warehousing (CFS-80001), CFS Project Management (CFS-80002), and CFS Staffing (CFS-80003)."
+  },
+  {
+    "id": "FAQ-005",
+    "category": "SERVICE_AVAILABILITY",
+    "question": "Is CFS MDM Pre-Enrollment available in the Americas?",
+    "answer": "Yes. CFS MDM Pre-Enrollment (CFS-40002) is available in EMEA, Americas, and AP. It is provided through CFS USA (US) for Americas customers. Note that a signed SOW and MDM platform access are required before this service can be delivered."
+  },
+  {
+    "id": "FAQ-006",
+    "category": "SERVICE_AVAILABILITY",
+    "question": "Is UV Printing available outside EMEA?",
+    "answer": "No. CFS UV Printing (CFS-70002) is available in EMEA only, served by CFS Netherlands (NL) and CFS UK (UK). Customers in the Americas or AP requiring branding services should consider CFS Laser Etching (CFS-70001), which is available in EMEA and Americas."
+  },
+  {
+    "id": "FAQ-007",
+    "category": "COUNTRY_ROUTING",
+    "question": "Which CFS site supports Germany?",
+    "answer": "Germany (DE) is supported by CFS Netherlands (NL). Germany is classified as Onshore in the EMEA Western Europe region. No LSSC support is required."
+  },
+  {
+    "id": "FAQ-008",
+    "category": "COUNTRY_ROUTING",
+    "question": "Which CFS site supports Poland?",
+    "answer": "Poland (PL) is supported by CFS Netherlands (NL). Poland is classified as Offshore in the EMEA Central Eastern Europe (CEE) region. No special status flags apply."
+  },
+  {
+    "id": "FAQ-009",
+    "category": "COUNTRY_ROUTING",
+    "question": "Which CFS site supports Brazil?",
+    "answer": "Brazil (BR) is supported by CFS USA (US). Brazil is classified as Offshore in the Americas Latin America region. Important: Brazil has a status of LSSC Support Required, meaning the Lenovo Supply Chain Centre must be engaged before shipment can be processed."
+  },
+  {
+    "id": "FAQ-010",
+    "category": "COUNTRY_ROUTING",
+    "question": "Which CFS site supports Japan?",
+    "answer": "Japan (JP) is supported by CFS Singapore (SG). Japan is classified as Onshore in the AP North Asia region."
+  },
+  {
+    "id": "FAQ-011",
+    "category": "COUNTRY_ROUTING",
+    "question": "Which CFS site supports Australia?",
+    "answer": "Australia (AU) is supported by CFS Singapore (SG). Australia is classified as Onshore in the AP ANZ region."
+  },
+  {
+    "id": "FAQ-012",
+    "category": "COUNTRY_ROUTING",
+    "question": "Which CFS site supports the United Kingdom?",
+    "answer": "The United Kingdom (GB) is supported by CFS UK (UK), the dedicated CFS facility in Warrington, England. The UK is classified as Onshore in the EMEA Western Europe region."
+  },
+  {
+    "id": "FAQ-013",
+    "category": "COUNTRY_ROUTING",
+    "question": "Which countries currently have shipments stopped?",
+    "answer": "Two countries currently have a Shipment Stopped status: Nigeria (NG) in EMEA Africa, and Venezuela (VE) in Americas Latin America. Orders cannot be processed for these countries until the status is lifted. Please contact your CFS programme manager for the latest update."
+  },
+  {
+    "id": "FAQ-014",
+    "category": "COUNTRY_ROUTING",
+    "question": "Which countries require LSSC support?",
+    "answer": "Three countries currently require LSSC (Lenovo Supply Chain Centre) support before shipment can proceed: Saudi Arabia (SA) in EMEA Middle East, South Africa (ZA) in EMEA Africa, and Brazil (BR) in Americas Latin America. Engage the LSSC team early as this adds lead time to the order."
+  },
+  {
+    "id": "FAQ-015",
+    "category": "COUNTRY_ROUTING",
+    "question": "Which CFS site supports India?",
+    "answer": "India (IN) is supported by CFS Singapore (SG). India is classified as Offshore in the AP South Asia region. No special status flags apply."
+  },
+  {
+    "id": "FAQ-016",
+    "category": "PART_NUMBERS",
+    "question": "What is the part number for CFS Ready to Process?",
+    "answer": "The part number for CFS Ready to Process (RTP) is CFS-10001. This is the standard imaging service available in EMEA, Americas, and AP. No SOW is required."
+  },
+  {
+    "id": "FAQ-017",
+    "category": "PART_NUMBERS",
+    "question": "What is the part number for CFS Drive Encryption?",
+    "answer": "The part number for CFS Drive Encryption is CFS-50001. This is the standard BitLocker-based encryption service available in EMEA, Americas, and AP. No SOW is required. The engineered-to-order variant (FDE ETO) is CFS-50002 and requires an SOW."
+  },
+  {
+    "id": "FAQ-018",
+    "category": "PART_NUMBERS",
+    "question": "What is the part number for CFS Asset Tag Report?",
+    "answer": "The part number for CFS Asset Tag Report is CFS-30001. This service is available in EMEA, Americas, and AP. It generates a CSV or Excel asset report including serial numbers, model numbers, and asset tag values."
+  },
+  {
+    "id": "FAQ-019",
+    "category": "PART_NUMBERS",
+    "question": "What is the part number for CFS Custom BIOS Settings?",
+    "answer": "The part number for CFS Custom BIOS Settings is CFS-60001. Available in EMEA, Americas, and AP. No SOW is required. The related Intel vPro provisioning service is CFS-60002 and does require an SOW."
+  },
+  {
+    "id": "FAQ-020",
+    "category": "PART_NUMBERS",
+    "question": "What is the part number for CFS Warehousing?",
+    "answer": "The part number for CFS Warehousing is CFS-80001. This managed service is available in EMEA, Americas, and AP. A signed SOW is required, specifying volume, SLA, and handling requirements."
+  },
+  {
+    "id": "FAQ-021",
+    "category": "SOW_REQUIREMENTS",
+    "question": "Does CFS Advanced Image ETO require an SOW?",
+    "answer": "Yes. CFS Advanced Image ETO (CFS-10002) requires a signed Statement of Work before work can begin. This is because it involves custom image validation and certification, which requires agreed scope, timeline, and acceptance criteria."
+  },
+  {
+    "id": "FAQ-022",
+    "category": "SOW_REQUIREMENTS",
+    "question": "Does CFS Ready to Process require an SOW?",
+    "answer": "No. CFS Ready to Process (CFS-10001) does not require an SOW. It uses a pre-validated standard process and can be ordered directly using the part number CFS-10001."
+  },
+  {
+    "id": "FAQ-023",
+    "category": "SOW_REQUIREMENTS",
+    "question": "Does CFS Intel vPro Provisioning require an SOW?",
+    "answer": "Yes. CFS Intel vPro Provisioning (CFS-60002) requires a signed SOW. This is because vPro provisioning requires customer-supplied MEBx credentials, network configuration details, and agreed acceptance testing. It is available in EMEA and AP only."
+  },
+  {
+    "id": "FAQ-024",
+    "category": "SOW_REQUIREMENTS",
+    "question": "Does CFS Autopilot Pre-Provisioning require an SOW?",
+    "answer": "Yes. CFS Autopilot Pre-Provisioning (CFS-20003) requires a signed SOW. CFS requires access to the customer's Microsoft tenant to complete white-glove provisioning, and the SOW covers access credentials, scope, and data handling requirements."
+  },
+  {
+    "id": "FAQ-025",
+    "category": "SOW_REQUIREMENTS",
+    "question": "Does CFS Laser Etching require an SOW?",
+    "answer": "No. CFS Laser Etching (CFS-70001) does not require an SOW. However, artwork must be submitted and approved before production. Laser Etching is available in EMEA and Americas. It is not available in AP."
+  },
+  {
+    "id": "FAQ-026",
+    "category": "PROCESS",
+    "question": "What does LSSC Support Required mean?",
+    "answer": "LSSC stands for Lenovo Supply Chain Centre. When a country has LSSC Support Required status, the LSSC team must be engaged before the CFS order can be processed. This typically applies to countries with complex customs, import restrictions, or special logistics requirements. Current LSSC countries are: Saudi Arabia (SA), South Africa (ZA), and Brazil (BR)."
+  },
+  {
+    "id": "FAQ-027",
+    "category": "PROCESS",
+    "question": "What is the difference between Onshore and Offshore CFS designation?",
+    "answer": "Onshore means the country is served by a CFS site within its own geographic region — for example, Germany (DE) served by CFS Netherlands (NL) within EMEA. Offshore means the country is served by a CFS site outside its immediate market, typically due to lower order volumes or logistics constraints. Offshore designations do not affect service availability but may affect lead times and customs documentation."
+  },
+  {
+    "id": "FAQ-028",
+    "category": "PROCESS",
+    "question": "What is the difference between CFS Ready to Process and CFS Advanced Image ETO?",
+    "answer": "CFS Ready to Process (CFS-10001) is the standard imaging service for customers with a pre-validated, stable image. It is faster and does not require an SOW. CFS Advanced Image ETO (CFS-10002) is for complex or non-standard image requirements that need custom engineering, validation, and certification. ETO requires an SOW and has a longer lead time. Both are available in EMEA, Americas, and AP."
+  },
+  {
+    "id": "FAQ-029",
+    "category": "SITE_CAPABILITIES",
+    "question": "What services does CFS Netherlands support?",
+    "answer": "CFS Netherlands (NL) supports all 20 CFS services across all 8 categories: Imaging (CFS-10001 to CFS-10004), Provisioning (CFS-20001 to CFS-20003), Asset Tag & DIB (CFS-30001 to CFS-30002), Mobile (CFS-40001 to CFS-40002), Encryption (CFS-50001 to CFS-50002), BIOS/vPro (CFS-60001 to CFS-60002), Etching/UV (CFS-70001 to CFS-70002), and Managed Services (CFS-80001 to CFS-80003). CFS Netherlands is the primary EMEA hub."
+  },
+  {
+    "id": "FAQ-030",
+    "category": "SITE_CAPABILITIES",
+    "question": "What services does CFS Singapore support?",
+    "answer": "CFS Singapore (SG) supports services available in the AP region. This includes: CFS Ready to Process (CFS-10001), CFS Advanced Image ETO (CFS-10002), CFS Image Recovery (CFS-10004), CFS Single Client Touch Enrollment (CFS-20001), CFS Autopilot Pre-Provisioning (CFS-20003), CFS Asset Tag Report (CFS-30001), CFS Mobile Application Loading (CFS-40001), CFS MDM Pre-Enrollment (CFS-40002), CFS Drive Encryption (CFS-50001), CFS Custom BIOS Settings (CFS-60001), CFS Intel vPro Provisioning (CFS-60002), and CFS Warehousing (CFS-80001). UV Printing, Laser Etching, Image Management, Asset Tag Custom Label, and RTW Black are not available in AP."
+  }
+]

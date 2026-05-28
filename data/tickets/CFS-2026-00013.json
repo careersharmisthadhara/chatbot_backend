@@ -1,0 +1,17 @@
+{
+  "reference": "CFS-2026-00013",
+  "subject": "Chatbot escalation: what is csat ?",
+  "description": "Original chatbot query:\nwhat is csat ?",
+  "serviceArea": "IMAGING",
+  "geography": null,
+  "countryRegion": "EMEA",
+  "requesterName": "sahraa",
+  "requesterEmail": "superstar@yopmail.com",
+  "priority": "HIGH",
+  "status": "NEW",
+  "escalatedFromSession": "72aa83f5-1880-4682-a7b0-21fdc68c63f3",
+  "prefilledQuery": "raise the ticket now",
+  "createdAt": "2026-05-28T09:21:51.440Z",
+  "updatedAt": "2026-05-28T09:21:51.440Z",
+  "resolvedAt": null
+}

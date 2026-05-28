@@ -1,0 +1,17 @@
+{
+  "reference": "CFS-2026-00005",
+  "subject": "Chatbot escalation: okay so how could you help me with csr?",
+  "description": "Original chatbot query:\nokay so how could you help me with csr?",
+  "serviceArea": "ENCRYPTION",
+  "geography": null,
+  "countryRegion": "EMEA",
+  "requesterName": "sharmistha dhara",
+  "requesterEmail": "sharmi@yopmail.com",
+  "priority": "MEDIUM",
+  "status": "NEW",
+  "escalatedFromSession": "a2f70f95-e39a-43b8-bc33-ef10dd0c3f7d",
+  "prefilledQuery": "okay so how could you help me with csr?",
+  "createdAt": "2026-05-27T08:40:32.453Z",
+  "updatedAt": "2026-05-27T08:40:32.453Z",
+  "resolvedAt": null
+}

@@ -1,0 +1,17 @@
+{
+  "reference": "CFS-2026-00002",
+  "subject": "Chatbot escalation: okay .what about RRR ratio in latam?",
+  "description": "Original chatbot query:\nokay .what about RRR ratio in latam?",
+  "serviceArea": "OTHER",
+  "geography": null,
+  "countryRegion": "Latam",
+  "requesterName": "Sharmistha Dhara",
+  "requesterEmail": "raj.panda11@gmail.com",
+  "priority": "MEDIUM",
+  "status": "NEW",
+  "escalatedFromSession": "0971080e-5752-40aa-9ddf-62d6fcde9519",
+  "prefilledQuery": "okay .what about RRR ratio in latam?",
+  "createdAt": "2026-05-27T01:04:34.109Z",
+  "updatedAt": "2026-05-27T01:04:34.109Z",
+  "resolvedAt": null
+}

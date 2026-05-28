@@ -1,0 +1,17 @@
+{
+  "reference": "CFS-2026-00001",
+  "subject": "not able to call ",
+  "description": "not able to find lenovo RRR for this month ",
+  "serviceArea": "IMAGING",
+  "geography": null,
+  "countryRegion": "Germany",
+  "requesterName": "Sharmistha Dhara",
+  "requesterEmail": "raj.panda11@gmail.com",
+  "priority": "CRITICAL",
+  "status": "NEW",
+  "escalatedFromSession": null,
+  "prefilledQuery": null,
+  "createdAt": "2026-05-26T16:16:07.398Z",
+  "updatedAt": "2026-05-26T16:16:07.398Z",
+  "resolvedAt": null
+}
